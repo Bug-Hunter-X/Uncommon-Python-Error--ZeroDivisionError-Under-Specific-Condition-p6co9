@@ -1,0 +1,1 @@
+This repository showcases a simple Python function that contains an uncommon error that will throw a ZeroDivisionError but only under specific conditions. The error is well-explained in the comments.  A solution is also provided. 
